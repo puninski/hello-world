@@ -1,2 +1,2 @@
 # hello-world
-My first git
+I was born in country that lost its history long long ago
